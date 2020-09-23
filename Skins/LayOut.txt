@@ -1,0 +1,18 @@
+Rename the .skn file and you should see this, this is what 
+it all means:
+
+SkinDemo Version 1.0 By Matthew Woodhams
+[Skin]
+Folder
+Image.jpg
+mask.jpg
+Height
+Width
+TitleTop
+Title Left
+Exit top
+Exit left
+Minimize Top
+Minimize left
+Controls caption (1 or 0)
+Comment
